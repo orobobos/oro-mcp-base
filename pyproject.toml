@@ -23,6 +23,10 @@ dependencies = [
     "mcp>=1.0",
 ]
 
+[project.urls]
+Homepage = "https://github.com/ourochronos/our-mcp-base"
+Repository = "https://github.com/ourochronos/our-mcp-base"
+
 [project.optional-dependencies]
 dev = [
     "pytest>=8.0",
